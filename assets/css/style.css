@@ -191,6 +191,9 @@
 
 			}
 
+			nav ul li:focus{
+				background-color: red;
+			}
 
 
 .owl-theme .owl-dots .owl-dot span{
