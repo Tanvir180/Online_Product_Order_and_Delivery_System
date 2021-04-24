@@ -5,7 +5,7 @@ $('.trail').owlCarousel({
     nav:false,
     navText:['<','>'],
     autoplay: true,
-    autoplayTimeout:4000,
+    autoplayTimeout:3000,
     autoplayHoverPause: true,
     responsive:{
         0:{
@@ -25,7 +25,7 @@ $('.topp').owlCarousel({
     nav:true,
     navText:['<','>'],
     autoplay: true,
-    autoplayTimeout:4000,
+    autoplayTimeout:1500,
     autoplayHoverPause: true,
     responsive:{
         0:{
